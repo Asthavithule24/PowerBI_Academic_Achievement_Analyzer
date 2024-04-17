@@ -40,4 +40,4 @@ The Power BI dashboard offers interactive visualizations and insights across mul
 2.Socio-economic Factors: Students with parents having higher levels of education tend to achieve higher average scores. Additionally, students receiving free/reduced lunch show lower average scores compared to those on paid lunch plans.\
 3.Test Preparation Impact: Completion of test preparation courses correlates with higher academic scores, indicating its positive influence on student performance.\
 4.Subject-based Performance: Analysis reveals varying performance levels across math, physics, and chemistry. Further investigation is warranted to identify underlying reasons for these differences.\
-5.Racial/Ethnic Disparities: Significant performance gaps exist among different racial/ethnic groups. Understanding and addressing these disparities are crucial for promoting equity in education.\
+5.Racial/Ethnic Disparities: Significant performance gaps exist among different racial/ethnic groups. Understanding and addressing these disparities are crucial for promoting equity in education.

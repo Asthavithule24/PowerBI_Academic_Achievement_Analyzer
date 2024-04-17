@@ -1,5 +1,5 @@
 # PowerBI_Academic_Achievement_Analyzer
-Introduction:
+#Introduction:
 The "Academic Achievement Analyzer" is a Power BI project designed to explore various factors influencing student academic performance and uncovering potential disparities in outcomes. By analyzing a comprehensive dataset containing student demographics, academic scores, and socio-economic indicators, this project aims to provide insights into equity in education.
 
 Project Overview:

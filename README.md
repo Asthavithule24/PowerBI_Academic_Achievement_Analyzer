@@ -18,13 +18,21 @@ The Power BI dashboard offers interactive visualizations and insights across mul
 6.Average Scores by Lunch Type: Analyzes the impact of lunch type (free/reduced or standard) on academic performance.\
 7.Average Scores by Test Preparation Course: Examines the influence of completing a test preparation course on academic scores.\
 8.Count of Students by Gender and Race/Ethnicity: Provides a breakdown of student counts by gender and race/ethnicity.\
-9.Percentage of Students Passing: Calculates the percentage of students passing across different demographics.\
+9.Percentage of Students Passing: Calculates the percentage of students passing across different demographics.
+
+
 
 
 ![image](https://github.com/Asthavithule24/PowerBI_Academic_Achievement_Analyzer/assets/157026150/2c0f941c-4068-4151-b89d-89b9e2f05bc1)
 
 
+
+
+
 ![image](https://github.com/Asthavithule24/PowerBI_Academic_Achievement_Analyzer/assets/157026150/1512c9d3-8ae7-4be9-9fdd-8d90b9f0055e)
+
+
+
 
 **Insights Gained:**
 
